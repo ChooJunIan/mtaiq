@@ -1,0 +1,643 @@
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session338_iaa_pub23603_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session256_iaa_pub17870_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session392_iaa_pub27377_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session319_iaa_pub22295_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session410_iaa_pub28634_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session182_iaa_pub12694_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session62_iaa_pub4280_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session28_iaa_pub1892_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session1_iaa_pub59_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session33_iaa_pub2253_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session4_iaa_pub233_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session202_iaa_pub14127_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session6_iaa_pub385_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session405_iaa_pub28308_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session9_iaa_pub576_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session225_iaa_pub15731_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session9_iaa_pub602_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session163_iaa_pub11346_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session9_iaa_pub623_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session136_iaa_pub9500_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session10_iaa_pub679_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session397_iaa_pub27729_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session10_iaa_pub698_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session354_iaa_pub24720_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session11_iaa_pub710_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session60_iaa_pub4161_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session12_iaa_pub840_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session237_iaa_pub16561_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session13_iaa_pub852_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session444_iaa_pub31080_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session13_iaa_pub893_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session188_iaa_pub13100_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session13_iaa_pub900_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session181_iaa_pub12610_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session15_iaa_pub1021_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session28_iaa_pub1948_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session15_iaa_pub1039_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session15_iaa_pub986_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session15_iaa_pub1039_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session396_iaa_pub27682_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session15_iaa_pub995_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session187_iaa_pub13083_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session16_iaa_pub1072_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session203_iaa_pub14201_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session16_iaa_pub1117_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session389_iaa_pub27211_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session18_iaa_pub1232_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session368_iaa_pub25698_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session19_iaa_pub1278_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session229_iaa_pub16019_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session204_iaa_pub14218_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session343_iaa_pub23964_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session20_iaa_pub1355_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session351_iaa_pub24550_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session20_iaa_pub1383_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session320_iaa_pub22357_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session21_iaa_pub1449_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session190_iaa_pub13288_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session22_iaa_pub1500_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session271_iaa_pub18953_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session22_iaa_pub1524_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session149_iaa_pub10404_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session23_iaa_pub1565_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session76_iaa_pub5262_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session23_iaa_pub1565_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session305_iaa_pub21297_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session23_iaa_pub1604_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session419_iaa_pub29286_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session25_iaa_pub1697_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session431_iaa_pub30129_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session26_iaa_pub1816_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session297_iaa_pub20724_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session27_iaa_pub1847_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session33_iaa_pub2255_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session28_iaa_pub1932_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session369_iaa_pub25821_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session29_iaa_pub1984_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session143_iaa_pub9985_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session29_iaa_pub1990_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session199_iaa_pub13888_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session29_iaa_pub2016_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session135_iaa_pub9393_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session30_iaa_pub2049_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08024.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session30_iaa_pub2100_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session215_iaa_pub15012_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session32_iaa_pub2197_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session355_iaa_pub24828_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session32_iaa_pub2236_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session228_iaa_pub15952_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session33_iaa_pub2303_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session437_iaa_pub30567_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session36_iaa_pub2482_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session140_iaa_pub9799_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session36_iaa_pub2493_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session247_iaa_pub17228_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session37_iaa_pub2583_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session123_iaa_pub8554_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session380_iaa_pub26543_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session50_iaa_pub3496_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session38_iaa_pub2626_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session171_iaa_pub11931_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session38_iaa_pub2629_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session347_iaa_pub24276_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session38_iaa_pub2633_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session250_iaa_pub17444_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session38_iaa_pub2641_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session173_iaa_pub12099_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session39_iaa_pub2698_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session392_iaa_pub27424_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session39_iaa_pub2726_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session63_iaa_pub4347_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session400_iaa_pub27939_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session147_iaa_pub10290_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session41_iaa_pub2845_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session386_iaa_pub26999_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session44_iaa_pub3043_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session282_iaa_pub19680_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session45_iaa_pub3100_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session138_iaa_pub9647_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session47_iaa_pub3256_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session349_iaa_pub24426_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session47_iaa_pub3268_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session17_iaa_pub1123_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session48_iaa_pub3298_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session59_iaa_pub4098_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session49_iaa_pub3407_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session303_iaa_pub21179_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session4_iaa_pub215_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session349_iaa_pub24369_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session50_iaa_pub3453_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session97_iaa_pub6733_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session52_iaa_pub3574_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session431_iaa_pub30106_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session52_iaa_pub3584_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session352_iaa_pub24612_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session52_iaa_pub3588_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session96_iaa_pub6676_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session52_iaa_pub3625_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session339_iaa_pub23680_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session53_iaa_pub3643_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session151_iaa_pub10538_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session54_iaa_pub3758_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session20_iaa_pub1338_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session55_iaa_pub3797_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session438_iaa_pub30645_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session56_iaa_pub3905_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session181_iaa_pub12608_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session56_iaa_pub3903_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session341_iaa_pub23829_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session57_iaa_pub3980_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session65_iaa_pub4512_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session59_iaa_pub4069_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session364_iaa_pub25480_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session59_iaa_pub4107_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09310.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session59_iaa_pub4130_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session105_iaa_pub7330_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session5_iaa_pub285_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session263_iaa_pub18399_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session61_iaa_pub4211_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session284_iaa_pub19848_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session61_iaa_pub4264_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session71_iaa_pub4908_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session61_iaa_pub4267_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session143_iaa_pub9954_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session62_iaa_pub4311_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session139_iaa_pub9680_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session63_iaa_pub4382_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session141_iaa_pub9840_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session64_iaa_pub4426_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session249_iaa_pub17398_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session66_iaa_pub4604_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session365_iaa_pub25528_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session68_iaa_pub4693_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session356_iaa_pub24874_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session68_iaa_pub4715_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session181_iaa_pub12638_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session69_iaa_pub4791_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session362_iaa_pub25331_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session70_iaa_pub4864_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session426_iaa_pub29818_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session71_iaa_pub4957_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session250_iaa_pub17455_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session71_iaa_pub4962_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session132_iaa_pub9179_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session72_iaa_pub5004_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session240_iaa_pub16749_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session73_iaa_pub5088_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session239_iaa_pub16697_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session75_iaa_pub5224_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session40_iaa_pub2734_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session75_iaa_pub5250_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session79_iaa_pub5489_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session76_iaa_pub5287_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session358_iaa_pub25003_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session78_iaa_pub5394_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session330_iaa_pub23089_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session79_iaa_pub5480_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session214_iaa_pub14940_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session79_iaa_pub5525_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session275_iaa_pub19238_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session80_iaa_pub5569_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session399_iaa_pub27930_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session80_iaa_pub5587_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session283_iaa_pub19754_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session82_iaa_pub5730_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session400_iaa_pub27984_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session84_iaa_pub5825_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session171_iaa_pub11954_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session84_iaa_pub5839_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session237_iaa_pub16542_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session84_iaa_pub5851_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session373_iaa_pub26101_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session85_iaa_pub5931_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session232_iaa_pub16202_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session86_iaa_pub5972_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session105_iaa_pub7297_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session89_iaa_pub6213_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session311_iaa_pub21751_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session89_iaa_pub6220_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session342_iaa_pub23893_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session90_iaa_pub6264_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session210_iaa_pub14649_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session91_iaa_pub6342_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session258_iaa_pub18027_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session92_iaa_pub6416_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session111_iaa_pub7710_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session92_iaa_pub6430_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session435_iaa_pub30440_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session93_iaa_pub6507_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session275_iaa_pub19210_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session95_iaa_pub6628_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session256_iaa_pub17880_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session96_iaa_pub6661_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session212_iaa_pub14785_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session97_iaa_pub6737_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session206_iaa_pub14410_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session97_iaa_pub6754_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10389.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session100_iaa_pub6985_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session242_iaa_pub16901_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session102_iaa_pub7089_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session284_iaa_pub19862_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session104_iaa_pub7214_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session171_iaa_pub11916_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session104_iaa_pub7231_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session341_iaa_pub23862_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session104_iaa_pub7256_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session419_iaa_pub29309_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session105_iaa_pub7312_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session289_iaa_pub20171_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session106_iaa_pub7374_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session184_iaa_pub12873_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session106_iaa_pub7390_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session356_iaa_pub24888_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session108_iaa_pub7495_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session132_iaa_pub9218_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session109_iaa_pub7579_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session177_iaa_pub12369_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session109_iaa_pub7625_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session325_iaa_pub22723_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session115_iaa_pub8049_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session360_iaa_pub25133_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session117_iaa_pub8154_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session212_iaa_pub14809_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session118_iaa_pub8219_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session439_iaa_pub30709_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session119_iaa_pub8276_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session194_iaa_pub13531_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session119_iaa_pub8282_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session442_iaa_pub30879_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session119_iaa_pub8286_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session293_iaa_pub20460_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session122_iaa_pub8522_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session229_iaa_pub16008_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session124_iaa_pub8618_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session375_iaa_pub26219_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session125_iaa_pub8718_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04463.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session126_iaa_pub8801_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session395_iaa_pub27606_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session128_iaa_pub8925_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session155_iaa_pub10842_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session128_iaa_pub8936_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session286_iaa_pub19958_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session128_iaa_pub8941_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session325_iaa_pub22685_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session128_iaa_pub8956_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session308_iaa_pub21535_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session129_iaa_pub8989_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session419_iaa_pub29265_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session129_iaa_pub9028_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session226_iaa_pub15815_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session130_iaa_pub9083_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session377_iaa_pub26344_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session131_iaa_pub9121_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session243_iaa_pub17008_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session131_iaa_pub9134_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session403_iaa_pub28154_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session133_iaa_pub9248_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session385_iaa_pub26885_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session133_iaa_pub9249_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session351_iaa_pub24509_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session133_iaa_pub9255_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session404_iaa_pub28231_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session133_iaa_pub9303_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session382_iaa_pub26738_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session134_iaa_pub9314_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session395_iaa_pub27642_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session135_iaa_pub9430_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session215_iaa_pub15024_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session139_iaa_pub9686_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session397_iaa_pub27745_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session140_iaa_pub9759_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session307_iaa_pub21462_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session143_iaa_pub9973_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01343.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session145_iaa_pub10147_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session337_iaa_pub23542_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session148_iaa_pub10302_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06078.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session148_iaa_pub10305_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session172_iaa_pub11983_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session148_iaa_pub10336_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session367_iaa_pub25636_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session148_iaa_pub10347_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session42_iaa_pub2878_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session150_iaa_pub10449_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session301_iaa_pub21045_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session14_iaa_pub963_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session396_iaa_pub27674_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session152_iaa_pub10631_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session174_iaa_pub12139_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session154_iaa_pub10723_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session255_iaa_pub17808_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session154_iaa_pub10755_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session316_iaa_pub22079_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session157_iaa_pub10982_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session170_iaa_pub11885_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session158_iaa_pub11049_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02705.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session159_iaa_pub11119_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session383_iaa_pub26792_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session162_iaa_pub11302_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session183_iaa_pub12807_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session162_iaa_pub11311_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session274_iaa_pub19154_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session164_iaa_pub11471_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session305_iaa_pub21349_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session153_iaa_pub10707_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session231_iaa_pub16169_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session167_iaa_pub11632_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session279_iaa_pub19469_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session167_iaa_pub11659_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session277_iaa_pub19352_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session167_iaa_pub11675_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session377_iaa_pub26379_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session168_iaa_pub11691_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05174.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session169_iaa_pub11819_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session343_iaa_pub23986_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session172_iaa_pub12005_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session330_iaa_pub23056_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session172_iaa_pub12020_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07089.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session173_iaa_pub12046_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session193_iaa_pub13463_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session175_iaa_pub12209_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session370_iaa_pub25891_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session175_iaa_pub12241_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session27_iaa_pub1875_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session177_iaa_pub12386_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session277_iaa_pub19375_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session179_iaa_pub12484_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session357_iaa_pub24974_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session179_iaa_pub12513_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session351_iaa_pub24516_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session180_iaa_pub12554_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session308_iaa_pub21491_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session180_iaa_pub12569_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session357_iaa_pub24981_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session17_iaa_pub1148_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session37_iaa_pub2530_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session182_iaa_pub12706_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session416_iaa_pub29117_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session182_iaa_pub12716_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session416_iaa_pub29071_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session183_iaa_pub12789_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session217_iaa_pub15165_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session185_iaa_pub12930_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session305_iaa_pub21326_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session187_iaa_pub13036_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session235_iaa_pub16384_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session188_iaa_pub13106_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session315_iaa_pub22047_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session188_iaa_pub13152_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04560.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session189_iaa_pub13175_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session342_iaa_pub23925_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session190_iaa_pub13281_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session212_iaa_pub14800_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session191_iaa_pub13322_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session211_iaa_pub14765_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session194_iaa_pub13562_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session296_iaa_pub20668_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session196_iaa_pub13700_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session407_iaa_pub28487_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session197_iaa_pub13788_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session408_iaa_pub28521_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session200_iaa_pub13951_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05121.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session201_iaa_pub14003_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session346_iaa_pub24210_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session204_iaa_pub14226_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session442_iaa_pub30892_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session208_iaa_pub14509_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session347_iaa_pub24286_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session209_iaa_pub14627_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session311_iaa_pub21769_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session211_iaa_pub14749_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session278_iaa_pub19402_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session214_iaa_pub14971_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session315_iaa_pub22046_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session219_iaa_pub15268_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session345_iaa_pub24099_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session219_iaa_pub15311_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02281.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session219_iaa_pub15326_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session413_iaa_pub28888_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session220_iaa_pub15346_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session348_iaa_pub24337_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session220_iaa_pub15359_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session222_iaa_pub15496_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session220_iaa_pub15374_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session429_iaa_pub29993_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session221_iaa_pub15405_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session369_iaa_pub25796_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session223_iaa_pub15566_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session304_iaa_pub21255_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session224_iaa_pub15655_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session306_iaa_pub21352_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session226_iaa_pub15797_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session251_iaa_pub17502_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session227_iaa_pub15881_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session438_iaa_pub30629_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session229_iaa_pub16001_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session251_iaa_pub17540_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session22_iaa_pub1471_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session304_iaa_pub21230_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session232_iaa_pub16188_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session337_iaa_pub23538_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session233_iaa_pub16245_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session376_iaa_pub26297_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session234_iaa_pub16372_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00846.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session236_iaa_pub16515_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session244_iaa_pub17053_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session237_iaa_pub16555_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session351_iaa_pub24513_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session237_iaa_pub16581_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session370_iaa_pub25847_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session239_iaa_pub16663_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session300_iaa_pub20968_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session242_iaa_pub16910_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session425_iaa_pub29729_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session244_iaa_pub17015_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session249_iaa_pub17364_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session244_iaa_pub17048_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session380_iaa_pub26544_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session244_iaa_pub17059_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session444_iaa_pub31021_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session247_iaa_pub17245_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session344_iaa_pub24051_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session246_iaa_pub17193_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session353_iaa_pub24698_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session246_iaa_pub17208_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session331_iaa_pub23121_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session248_iaa_pub17345_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session304_iaa_pub21252_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session249_iaa_pub17368_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session340_iaa_pub23744_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session251_iaa_pub17513_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session271_iaa_pub18906_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session251_iaa_pub17525_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session324_iaa_pub22633_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session227_iaa_pub15888_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09677.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session22_iaa_pub1540_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session408_iaa_pub28549_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session252_iaa_pub17615_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session382_iaa_pub26729_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session261_iaa_pub18202_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session360_iaa_pub25143_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session262_iaa_pub18277_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session387_iaa_pub27033_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session262_iaa_pub18308_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session418_iaa_pub29237_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session261_iaa_pub18214_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session361_iaa_pub25266_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session265_iaa_pub18493_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session391_iaa_pub27326_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session265_iaa_pub18507_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session321_iaa_pub22428_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session269_iaa_pub18800_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session290_iaa_pub20252_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session26_iaa_pub1758_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session285_iaa_pub19920_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session274_iaa_pub19118_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session370_iaa_pub25866_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session286_iaa_pub19983_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session348_iaa_pub24352_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session286_iaa_pub19984_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session436_iaa_pub30480_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session288_iaa_pub20134_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09660.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session295_iaa_pub20583_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session428_iaa_pub29927_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session295_iaa_pub20629_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session408_iaa_pub28540_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session297_iaa_pub20753_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session423_iaa_pub29578_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session297_iaa_pub20756_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session353_iaa_pub24697_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session298_iaa_pub20819_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00329.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session298_iaa_pub20849_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03339.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session299_iaa_pub20928_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session312_iaa_pub21796_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session303_iaa_pub21156_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session389_iaa_pub27199_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session303_iaa_pub21201_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session327_iaa_pub22880_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session304_iaa_pub21215_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session406_iaa_pub28413_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session304_iaa_pub21232_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08960.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session30_iaa_pub2033_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session423_iaa_pub29544_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session312_iaa_pub21805_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session422_iaa_pub29473_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session315_iaa_pub22010_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session424_iaa_pub29636_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session317_iaa_pub22146_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session428_iaa_pub29921_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session317_iaa_pub22177_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session378_iaa_pub26407_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session318_iaa_pub22235_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session433_iaa_pub30259_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session320_iaa_pub22396_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session330_iaa_pub23042_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session321_iaa_pub22417_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session379_iaa_pub26525_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session321_iaa_pub22451_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session434_iaa_pub30353_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session325_iaa_pub22748_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session386_iaa_pub27008_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session326_iaa_pub22797_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session435_iaa_pub30438_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session327_iaa_pub22855_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session328_iaa_pub22927_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session327_iaa_pub22856_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session386_iaa_pub27020_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session335_iaa_pub23382_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10883.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session335_iaa_pub23427_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session355_iaa_pub24801_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session336_iaa_pub23518_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session377_iaa_pub26353_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session340_iaa_pub23739_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session371_iaa_pub25927_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session341_iaa_pub23819_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session396_iaa_pub27696_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session344_iaa_pub24017_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04878.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session345_iaa_pub24108_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session431_iaa_pub30121_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session345_iaa_pub24126_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session385_iaa_pub26909_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session347_iaa_pub24238_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session387_iaa_pub27050_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session347_iaa_pub24250_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session390_iaa_pub27256_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session352_iaa_pub24635_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session417_iaa_pub29161_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session355_iaa_pub24781_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session409_iaa_pub28627_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session353_iaa_pub24682_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09887.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session355_iaa_pub24823_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session403_iaa_pub28196_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session36_iaa_pub2453_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session401_iaa_pub28067_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session370_iaa_pub25863_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session441_iaa_pub30856_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session372_iaa_pub25976_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session426_iaa_pub29816_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session379_iaa_pub26478_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session414_iaa_pub28966_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session386_iaa_pub26991_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session423_iaa_pub29590_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session388_iaa_pub27101_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04760.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session388_iaa_pub27149_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session442_iaa_pub30901_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session389_iaa_pub27220_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session422_iaa_pub29484_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session38_iaa_pub2628_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session393_iaa_pub27466_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session390_iaa_pub27244_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00303.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session408_iaa_pub28525_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08265.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session420_iaa_pub29387_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session430_iaa_pub30083_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session428_iaa_pub29960_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session444_iaa_pub31016_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session428_iaa_pub29940_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session436_iaa_pub30506_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session429_iaa_pub29972_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09571.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session430_iaa_pub30042_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10409.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session431_iaa_pub30147_.jpg /media/workstation/BackupDrive/Dataset/PARA/imgs/session444_iaa_pub31011_.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session443_iaa_pub30944_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06450.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session444_iaa_pub31054_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10546.jpg
+/media/workstation/BackupDrive/Dataset/PARA/imgs/session444_iaa_pub31060_.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00038.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00098.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10298.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00107.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10147.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00219.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10042.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00248.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10871.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00275.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10479.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00330.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10275.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00375.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10714.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00399.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10048.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00409.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10079.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00437.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10685.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00513.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10806.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00571.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10710.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00577.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10540.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00625.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10153.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00638.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10172.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00655.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10064.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00695.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10492.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00733.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10891.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00743.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10956.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00797.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10530.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00804.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11083.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00832.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10007.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00875.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10557.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00886.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11058.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00927.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10899.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00978.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10031.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/00990.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10140.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01011.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10715.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01055.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10664.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01074.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10111.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01089.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10495.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01060.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10800.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01204.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10837.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01223.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10233.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01224.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10605.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01301.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10474.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01312.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10634.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01329.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10526.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01342.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10009.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01351.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11102.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01388.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10097.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01417.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10146.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01447.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10402.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01456.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10680.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01340.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10166.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01468.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11019.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01523.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11043.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01766.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10651.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01460.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11055.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01600.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10778.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04680.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10381.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10080.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05056.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01855.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11016.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01868.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10419.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01886.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10400.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01890.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10702.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01909.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10745.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01919.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10910.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01943.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11123.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01949.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10795.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01957.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10769.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/01997.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10577.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02025.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10938.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02166.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11010.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02214.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10780.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02242.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10626.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02244.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10267.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02254.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10734.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02257.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10663.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02346.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10184.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02354.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10116.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02367.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10673.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02376.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10102.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02381.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10314.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02382.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10834.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02424.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10324.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02462.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10131.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02525.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11106.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02551.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11012.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02581.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10186.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02636.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10524.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02665.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10737.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02675.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10857.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02703.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10609.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02723.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10098.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02741.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10017.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02769.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10494.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02794.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11036.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02824.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11073.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02833.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10748.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02838.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10850.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02844.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10890.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02983.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10499.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/02984.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10639.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03005.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10425.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03012.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11031.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03015.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10349.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03017.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10892.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03037.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10074.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03069.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10108.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03124.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10823.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03168.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10260.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03173.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10115.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03199.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11076.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03205.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10485.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03272.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10099.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03273.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10960.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03315.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10650.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03354.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10465.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03355.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10473.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03408.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10434.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03412.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10004.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03437.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10544.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03471.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10500.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03515.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10511.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03522.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10832.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03527.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10700.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03542.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10403.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03599.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10061.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03608.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10757.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03540.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10598.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03669.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11092.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03685.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10091.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03724.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10503.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03830.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10165.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03844.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10655.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03856.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10523.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03930.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10747.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/03974.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11038.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04058.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10134.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04127.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10838.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04146.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10446.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04175.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10728.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04181.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10342.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04229.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10779.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04237.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10967.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04256.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10432.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04267.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10894.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04290.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10119.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04297.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10311.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04334.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10801.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04342.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10666.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04365.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11121.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04367.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10351.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04489.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10136.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04518.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10981.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04521.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10464.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04563.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10851.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04838.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10482.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04968.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11028.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/04992.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06201.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05051.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10803.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05088.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10668.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05093.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10057.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05188.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10637.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05191.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10872.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05243.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10860.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05272.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10576.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05296.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10750.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05361.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10635.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05403.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10282.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05413.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10038.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05449.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10226.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05450.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10934.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05457.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10085.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05516.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10462.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05544.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10216.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05594.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11111.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05605.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10674.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05612.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10254.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05638.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10758.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05670.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10424.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05686.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10955.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05703.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10300.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05731.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11018.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05755.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10204.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05770.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10178.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05640.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10456.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05818.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10672.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05890.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10932.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05938.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10237.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05943.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10588.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06007.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10132.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06044.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10974.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06081.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10764.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06087.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10929.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06089.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10553.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06104.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10228.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/05980.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10008.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06207.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10753.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06211.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10658.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06228.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10987.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06243.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10463.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06275.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10433.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06277.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10173.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06282.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10744.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06313.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10977.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06327.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11086.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06356.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10436.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06406.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11026.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06440.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10581.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06514.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10200.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06542.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10076.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06581.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10794.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06597.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10483.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06629.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10318.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06656.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10821.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06706.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10066.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06753.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10156.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06756.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11042.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06764.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10804.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06795.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10243.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06815.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10941.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06825.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10699.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06873.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10084.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06876.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10174.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06882.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10348.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06890.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10595.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06898.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10718.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06945.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10593.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06978.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10983.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/06983.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10347.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07010.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10297.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07029.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11100.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07032.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10922.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07033.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10501.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07048.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10880.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07052.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10962.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07134.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10592.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07154.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10995.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07172.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10143.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07209.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10362.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07255.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10086.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07265.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10895.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07312.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10783.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07371.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10312.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07415.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10667.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07419.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10508.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07439.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10742.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07457.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10507.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07467.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10802.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07476.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10793.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07507.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10980.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07515.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10167.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07531.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10613.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07542.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10870.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07543.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10377.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07555.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10133.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07540.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10142.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07612.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10616.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07622.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10765.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07626.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10813.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07637.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10375.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07654.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10322.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07667.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10336.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07676.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10989.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07677.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10606.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07682.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11112.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07729.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10148.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07828.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10457.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07845.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10376.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07983.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10520.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08019.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10996.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08023.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10232.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08109.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11050.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08115.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11020.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08130.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10945.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08139.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10777.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08171.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10046.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08181.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10122.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08193.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10063.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08279.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10113.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08292.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10130.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/07940.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10195.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08368.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10308.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08381.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10756.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08395.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10522.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08434.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11032.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08451.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10531.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08455.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10824.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08654.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10536.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08669.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11082.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08682.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10401.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08703.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10429.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08719.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10752.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08757.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10881.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08827.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10535.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08914.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10325.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08951.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10192.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08953.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10763.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08963.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10649.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08967.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11054.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08985.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10209.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09011.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10352.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09017.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10369.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/08780.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10221.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09022.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10334.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09096.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11040.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09118.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10225.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09163.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10328.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09194.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11120.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09224.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10370.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09284.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10976.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09295.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10304.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09317.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10247.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09321.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10799.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09347.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10137.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09377.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11037.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09381.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10619.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09434.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10704.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09475.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10264.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09477.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10578.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09490.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10044.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09559.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10266.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09595.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10128.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09771.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10016.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09845.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10411.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09871.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10900.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09913.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/11047.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09963.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10691.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09982.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10360.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09993.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10550.jpg
+/media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/09995.jpg /media/workstation/BackupDrive/Dataset/SPAQ dataset-20230407T121509Z-008/SPAQ/TestImage/10990.jpg
+In PARA duplicated: 287
+In SPAQ duplicated: 323
+Shared duplicates: 29
+Total duplicates: 639
